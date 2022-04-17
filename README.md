@@ -1,7 +1,7 @@
 <h1 align="center"> SOTabBarPlus </h1>
 <p align="center">
     <a href="https://travis-ci.org/Ahmadalsofi/SOTabBar">
-        <img src="https://img.shields.io/travis/Ahmadalsofi/SOTabBar.svg?style=flat" />
+        <img src="https://img.shields.io/travis/wzJun1/SOTabBarPlus.svg?style=flat" />
     </a>
     <img src="https://img.shields.io/badge/Swift-4 | 5-orange.svg?style=flat" />
     <a href="https://cocoapods.org/pods/SOTabBar">
@@ -16,18 +16,18 @@
   	<a href="https://cocoapods.org/pods/SOTabBar">
         <img src="https://img.shields.io/cocoapods/l/SOTabBar.svg?style=flat" />
     </a>
-	<a href="https://github.com/ahmadalsofi/sotabbar/releases">
-        <img src="https://img.shields.io/github/release/ahmadalsofi/SOTabBar.svg" />
+	<a href="https://github.com/wzJun1/SOTabBarPlus/releases">
+        <img src="https://img.shields.io/github/release/wzjun1/sotabbarplus.svg" />
     </a>
-  <a href="https://github.com/Ahmadalsofi/SOTabBar/issues">
-        <img src="https://img.shields.io/github/issues-raw/ahmadalsofi/sotabbar" />
+  <a href="https://github.com/wzJun1/SOTabBarPlus/issues">
+        <img src="https://img.shields.io/github/issues-raw/wzjun1/sotabbarplus" />
     </a>
-  <a href="https://github.com/Ahmadalsofi/SOTabBar/releases">
-        <img src="https://img.shields.io/github/release-date/ahmadalsofi/sotabbar" />
+  <a href="https://github.com/wzJun1/SOTabBarPlus/releases">
+        <img src="https://img.shields.io/github/release-date/wzjun1/sotabbarplus" />
     </a>
 	<br>
 	<br>
 	<br>
 	<br>
-    <img src="Screenshots/headerGif.gif" width="520" height="216"/>
+    <img src="https://s2.loli.net/2022/04/17/V6olnYIW2L3K7wC.gif" width="520" height="216"/>
 </p>
