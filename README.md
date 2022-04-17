@@ -15,6 +15,13 @@
 </p>
 
 
-## 📋 Original Project
+## Original Project
 
 [Ahmadalsofi/SOTabBar](https://github.com/Ahmadalsofi/SOTabBar)
+
+## Refactoring content
+
+Root Controller Change to UITabbarController,Page controller usage UINavigationController,overwrite pushViewController.
+
+
+<img src="https://s2.loli.net/2022/04/17/5I4thBOApwP1zDg.gif" width="375" height="820"/>
